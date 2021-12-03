@@ -1,0 +1,321 @@
+.content12 {
+	/* Fenrir The Monster Wolf of Norse Mythology Necklace */
+
+
+position: absolute;
+width: 563px;
+height: 88px;
+left: 630px;
+top: 300px;
+
+/* 32px-h2/regular */
+
+font-family: Goudy Bookletter 1911;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 44px;
+text-align: center;
+z-index: 4;
+
+/* white/100 */
+
+color: #FFFFFF;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.content11 {
+	/* $19.95 $29.95 */
+
+
+position: absolute;
+width: 121px;
+height: 17px;
+left: 850px;
+top: 410px;
+z-index: 4;
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/sign/price.png);
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.content10 {
+	position: absolute;
+height: 21px;
+left: 860px;
+top: 460px;
+
+/* 16px-base/bold */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+z-index: 3;
+/* white/100 */
+
+color: #ffffff;
+
+text-shadow: 0px -1px 0px rgba(32, 32, 32, 0.33);
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.button {
+	position: absolute;
+left: 830px;
+top: 450px;
+width: 163px;
+height: 48px;
+/* accent/red */
+
+background: #CC0000;
+border: 1px solid #950000;
+box-sizing: border-box;
+box-shadow: inset 0px -2px 2px rgba(32, 32, 32, 0.33);
+border-radius: 4px;
+z-index: 2;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.background5 {
+z-index: 3;
+position: absolute;
+width: 499px;
+height: 520px;
+left: 340px;
+top: 100px;
+background: linear-gradient(90deg, rgba(20, 25, 37, 0) 0%, #131824 30.57%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.background4 {
+	position: absolute;
+width: 499px;
+height: 520px;
+left: 1100px;
+top: 100px;
+background: linear-gradient(90deg, rgba(20, 25, 37, 0) 0%, #131824 30.57%);
+z-index: 1;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.background3 {
+position: absolute;
+width: 499px;
+height: 520px;
+left: 1380px;
+top: 100px;
+
+background: linear-gradient(90deg, rgba(20, 25, 37, 0) 0%, #131824 30.57%);
+}
+.background2 {
+position: absolute;
+width: 741px;
+min-height: 520px;
+left: 555px;
+top: 100px;
+z-index: 1;
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/background/Background.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.background {
+	/* Background */
+
+z-index: 3;
+position: absolute;
+width: 499px;
+height: 520px;
+left: 0px;
+top: 100px;
+background: linear-gradient(90deg, rgba(20, 25, 37, 0) 0%, #131824 30.57%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.image {
+	/* image */
+
+
+position: absolute;
+width: 500px;
+height: 52px;
+left: 111px;
+top: 23px;
+
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/sign/name.png);
+}
+.content {
+position: absolute;
+width: 74px;
+height: 27px;
+left: 912px;
+top: 40px;
+
+/* 21px-subtitle/bold */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+
+/* black/100 */
+
+color: #202020;
+}
+.content1 {
+	/* Ancient Egypt */
+
+
+position: absolute;
+width: 141px;
+height: 27px;
+left: 1018px;
+top: 40px;
+
+/* 21px-subtitle/bold */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+
+/* black/100 */
+
+color: #202020;
+
+}
+.content2 {
+	/* Celtics */
+
+
+position: absolute;
+width: 66px;
+height: 27px;
+left: 1191px;
+top: 40px;
+
+/* 21px-subtitle/bold */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+
+/* black/100 */
+
+color: #202020;
+
+}
+.content3 {
+	/* Sale */
+
+
+position: absolute;
+width: 54px;
+height: 27px;
+left: 1299px;
+top: 40px;
+
+/* 21px-subtitle/BOLD */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+/* accent/red */
+
+color: #CC0000;
+}
+.content4 {
+/* Line */
+
+
+position: absolute;
+width: 10.86px;
+height: 11px;
+left: 1598px;
+top: 54px;
+
+/* black/100 */
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/loupe/Line.png);
+}
+.content5 {
+	/* Ellipse */
+
+
+
+position: absolute;
+width: 18.48px;
+height: 18.48px;
+left: 1583px;
+top: 40px;
+
+/* black/100 */
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/loupe/Ellipse.png);
+
+}
+.content6 {
+position: absolute;
+height: 19px; 
+width: 24px;
+left: 1695px;
+top: 46px;
+bottom: 92.5%;
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/basket/Vector1.png);
+}
+.content7 {
+	height: 5px;
+	width: 5px;
+position: absolute;
+left: 1701px;
+top: 66px;
+bottom: 91.5%;
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/basket/Vector2.png);
+}
+.content8 {
+	position: absolute;
+	height: 13px;
+	width: 21.9px;
+left: 90.37%;
+right: 8.11%;
+top: 4.97%;
+bottom: 93.16%;
+	background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/basket/Vector.png);
+}
+.content9 {
+height: 5px; 
+width: 5px;
+position: absolute;
+left: 1712px;
+top: 66px;
+bottom: 91.5%;
+background: url(file:///C:/Users/Jeka%20Fire/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/web/images/basket/Vector3.png);
+}
